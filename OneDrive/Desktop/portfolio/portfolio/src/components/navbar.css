@@ -1,0 +1,97 @@
+/* navbar.css */
+.bg-gray-800 {
+  background-color: #333333;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-xl {
+  font-size: 20px;
+}
+
+.hover\:text-white:hover {
+  color: white;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.focus\:outline-none:focus {
+  outline: none;
+}
+
+.hover\:bg-gray-700:hover {
+  background-color: #444444;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.text-base {
+  font-size: 16px;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.md\:mt-0 {
+  margin-top: 0;
+}
+
+.md\:py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.md\:pl-4 {
+  padding-left: 1rem;
+}
+
+.md\:border-l {
+  border-left-width: 1px;
+}
+
+.md\:border-gray-700 {
+  border-color: #777777;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.text-base {
+  font-size: 16px;
+}
+
+.justify-center {
+  justify-content: center;
+}
+.nav-link {
+  margin-right: 1rem;
+  color: white;
+}
+.text-gray-300 {
+  color: gray; /* Reemplaza este valor con el gris claro deseado */
+}
+.text-bl{
+color:aqua;
+}

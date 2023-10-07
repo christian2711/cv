@@ -1,0 +1,32 @@
+
+.contact-section {
+  background-color: #f2f2f2;
+  color: #666;
+}
+
+.contact-form {
+  margin-top: 15px;
+}
+
+.contact-form label {
+  font-size: 8px;
+  margin-bottom: 5px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 80%;
+  padding: 4px;
+  margin-bottom: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  font-size: 10px;
+}
+
+.btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  /* Otros estilos que desees aplicar */
+}
